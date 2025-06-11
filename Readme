@@ -1,3 +1,8 @@
-1. Install terraform and aws utiltiy packages
+1. Install terraform and aws utiltiy packages.  
+    https://docs.google.com/document/d/1Mkk1MyaIrGGpO_uQNwwiSD_zWMnuiUlqpGrFhkcpbOA/edit?tab=t.0
 2. create terraform files
+     mkdir example
+      touch main.tf
 3. configure aws credentials using 'aws configure'
+    use secretid and access key.
+
