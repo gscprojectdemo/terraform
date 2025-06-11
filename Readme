@@ -6,3 +6,7 @@
 3. configure aws credentials using 'aws configure'
     use secretid and access key.
 
+assignment:
+  1. create ec2 instance
+  2. s3 bucket
+
