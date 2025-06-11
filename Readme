@@ -1,8 +1,12 @@
 1. Install terraform and aws utiltiy packages.  
-    https://docs.google.com/document/d/1Mkk1MyaIrGGpO_uQNwwiSD_zWMnuiUlqpGrFhkcpbOA/edit?tab=t.0
+   https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 2. create terraform files
      mkdir example
       touch main.tf
 3. configure aws credentials using 'aws configure'
     use secretid and access key.
+
+assignment:
+  1. create ec2 instance
+  2. s3 bucket
 
